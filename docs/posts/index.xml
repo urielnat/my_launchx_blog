@@ -7,5 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://urielnat.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi aprendizaje en launch X</title>
+      <link>https://urielnat.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://urielnat.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola, te comparto cuales fueron mis aprendizajes:
+ Python Reforce y aprendi nuevas cosas en CSS Reforce y aprendi nuevas cosas en Javascript VueJs Realizar despliegues de paginas estaticas en Azure  </description>
+    </item>
+    
   </channel>
 </rss>
